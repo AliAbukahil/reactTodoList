@@ -1,12 +1,19 @@
 import React from 'react'
+// import Components 
 
-function TodoList() {
+import Todo from "./Todo"
+
+function TodoList({ todos }) {
+
     return (
-        <div>
-            <div className="todo-container">
-        <ul className="todo-list"></ul>
+        <div className="todo-container">
+        <ul className="todo-list">
+            {todos.map(todo => (
+                <Todo />
+            ))}
+        </ul>
             </div>
-        </div>
+
     )
 }
 

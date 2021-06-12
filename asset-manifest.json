@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/AliAbukahil/reactTodoList.git/static/css/main.c03d172e.chunk.css",
-    "main.js": "/AliAbukahil/reactTodoList.git/static/js/main.56e3a035.chunk.js",
-    "main.js.map": "/AliAbukahil/reactTodoList.git/static/js/main.56e3a035.chunk.js.map",
+    "main.js": "/AliAbukahil/reactTodoList.git/static/js/main.d636a6a7.chunk.js",
+    "main.js.map": "/AliAbukahil/reactTodoList.git/static/js/main.d636a6a7.chunk.js.map",
     "runtime-main.js": "/AliAbukahil/reactTodoList.git/static/js/runtime-main.5f12a8df.js",
     "runtime-main.js.map": "/AliAbukahil/reactTodoList.git/static/js/runtime-main.5f12a8df.js.map",
-    "static/js/2.777a91a4.chunk.js": "/AliAbukahil/reactTodoList.git/static/js/2.777a91a4.chunk.js",
-    "static/js/2.777a91a4.chunk.js.map": "/AliAbukahil/reactTodoList.git/static/js/2.777a91a4.chunk.js.map",
+    "static/js/2.d221470b.chunk.js": "/AliAbukahil/reactTodoList.git/static/js/2.d221470b.chunk.js",
+    "static/js/2.d221470b.chunk.js.map": "/AliAbukahil/reactTodoList.git/static/js/2.d221470b.chunk.js.map",
     "index.html": "/AliAbukahil/reactTodoList.git/index.html",
     "static/css/main.c03d172e.chunk.css.map": "/AliAbukahil/reactTodoList.git/static/css/main.c03d172e.chunk.css.map",
-    "static/js/2.777a91a4.chunk.js.LICENSE.txt": "/AliAbukahil/reactTodoList.git/static/js/2.777a91a4.chunk.js.LICENSE.txt"
+    "static/js/2.d221470b.chunk.js.LICENSE.txt": "/AliAbukahil/reactTodoList.git/static/js/2.d221470b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f12a8df.js",
-    "static/js/2.777a91a4.chunk.js",
+    "static/js/2.d221470b.chunk.js",
     "static/css/main.c03d172e.chunk.css",
-    "static/js/main.56e3a035.chunk.js"
+    "static/js/main.d636a6a7.chunk.js"
   ]
 }

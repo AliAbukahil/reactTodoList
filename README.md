@@ -1,3 +1,7 @@
+## React To-do List with Local Storage
+
+<img src="https://github.com/AliAbukahil/reactTodoList/blob/master/src/images/ezgif.com-gif-maker.gif" alt="Gif">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

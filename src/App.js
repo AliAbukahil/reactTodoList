@@ -19,6 +19,7 @@ function App() {
     // use Effect
   useEffect(() => {
     filterHandler();
+    saveLocalTodos();
   }, [todos, status]);
   // Functions
   const filterHandler = () => {
